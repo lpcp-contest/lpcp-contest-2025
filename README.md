@@ -1,7 +1,7 @@
 # LP/CP Programming Contest 2025
 
 The traditional [LP/CP Programming Contest](https://lpcp-contest.github.io/) will be run **on site** during ICLP 2025.
-It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:00.
+It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:30 (including an extra 30 minutes to accommodate any unexpected event) .
 The LP/CP Programming Contest 2025 will be held in person, with each team consisting of up to three participants, and is hosted at the ICLP 2025 conference venue, the University of Calabria.
 
 **Results, stats and winner** will be announced shortly after the contest at the ICLP 2025 conference banquet.
