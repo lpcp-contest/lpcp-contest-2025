@@ -62,7 +62,7 @@ And of course: Join us for the LP/CP Programming Contest 2025 session on **Wedne
 
 ## Submission
 
-Via [EasyChair](https://easychair.org/conferences/?conf=iclp2025).
+Via [EasyChair](https://easychair.org/conferences/?conf=iclp25).
 Select the **Competition** track for the submission of solutions.
 
 For each problem you solve, submit a ZIP archive with all files needed to run your solution.
