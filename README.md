@@ -72,7 +72,7 @@ The title must obey the following format:
 team-name:problem-number:version
 ```
 
-A good entry-point is a script like `run.sh` reading input instances from STDIN and producing output on STDOUT (see [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0/example-solution-using-asp)).
+A good entry-point is a script like `run.sh` reading input instances from STDIN and producing output on STDOUT (see [problem-0](problem-0/example-solution-using-asp)).
 If you opt for a different entry-point or different usage, provide instructions on how to execute your solution in the abstract.
 We may ask support to run your solution at the end of the contest.
 
@@ -94,7 +94,7 @@ The instance and the solution to be checked are read from standard input.
 Before the contest, the checker is restricted to an example problem.
 It will be replaced to the unrestricted version during the contest.
 
-Let us consider [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0) (taken from a previous edition), and its first instance (i.e., instance-1).
+Let us consider [problem-0](problem-0) (taken from a previous edition), and its first instance (i.e., instance-1).
 If the solution to be checked is stored in file `instance.1.out`, the checker can be run with one of the following command-lines:
 ```bash
 $ cat instance.1.in instance.1.out | ./checker.py 0 
@@ -104,7 +104,7 @@ $ cat instance.1.in instance.1.out | ./checker.py 0 --no-browser
 The first command-line opens an ASP Chef visualization of the solution, as well as of errors (if any).
 The second command-line print errors in the terminal, but needs the ASP Chef CLI (`docker pull malvi/asp-chef-cli`).
 
-Note also that folder [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0) includes an example solution using ASP.
+Note also that folder [problem-0](problem-0) includes an example solution using ASP.
 Input is parsed with a generic Python script, which can be easily adapted to other systems.
 Similarly, the output of the ASP engine is mapped to CSV by another Python script.
 The entry point to execute the ASP solution is the bash script `run.sh`.
