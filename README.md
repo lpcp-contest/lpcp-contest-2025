@@ -114,6 +114,7 @@ The entry point to execute the ASP solution is the bash script `run.sh`.
 
 In alphabetical order:
 - **0-ASPectation**: Davide Pirrò (DeMaCS Unical Student, Italy), Emanuele Galardo (DeMaCS Unical Student, Italy), Pierpaolo Spadafora (DeMaCS Unical Student, Italy)
+- **CNL Chef**: Simone Caruso (University of Genova, Italy), Mahrokh Mirani (Gran Sasso Science Institute, Italy), Luis Angel Rodriguez Reiners (University of Calabria, Italy)
 - **Failure-driven Team**: Daniela Ferreiro (IMDEA Software, Spain), Marco Ciccale (IMDEA Software, Spain), Daniel Jurjo (IMDEA Software, Spain)
 - **FiBoYi**: Aysu Bogatarkan (Sabanci University, Turkey), Baturay Yilmaz (Sabanci University, Turkey), Müge Fidan (Sabanci University, Turkey)
 - **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (CNRS, CRIL, France)
@@ -123,7 +124,7 @@ In alphabetical order:
 - **p**: Cristian Grozea (Fraunhofer Institute FOKUS, Berlin, Germany), Marco Gavanelli (University of Ferrara, Italy), Neng-Fa Zhou (CUNY, USA)
 
 Participants looking for a team:
-- Mahrokh Mirani (Gran Sasso Science Institute, Italy)
+- **Mahrokh Mirani ()
   
 More teams to be announced!
 
