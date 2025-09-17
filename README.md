@@ -116,7 +116,7 @@ In alphabetical order:
 - **0-ASPectation**: Davide Pirrò (DeMaCS Unical Student, Italy), Emanuele Galardo (DeMaCS Unical Student, Italy), Pierpaolo Spadafora (DeMaCS Unical Student, Italy)
 - **Failure-driven Team**: Daniela Ferreiro (IMDEA Software, Spain), Marco Ciccale (IMDEA Software, Spain), Daniel Jurjo (IMDEA Software, Spain)
 - **FiBoYi**: Aysu Bogatarkan (Sabanci University, Turkey), Baturay Yilmaz (Sabanci University, Turkey), Müge Fidan (Sabanci University, Turkey)
-- **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (TU Wien, Austria)
+- **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (CNRS, CRIL, France)
 - **Great ASPirations**: Jesse Heyninck (Open Universiteit Heerlen, Netherlands), Veronika Semmelrock (University of Klagenfurt, Austria), Alice Tarzariol (University of Klagenfurt, Austria)
 - **International Anthem**: Zach Hansen (University of Nebraska, Omaha, USA), Nicolas Rühling (University of Potsdam, Germany), Tobias Stolzmann (University of Potsdam, Germany)
 - **Nduja Tapas w/ glass of Chianti**: Stefano Forti (University of Pisa, Italy), Antonio Ielo (University of Calabria, Italy), Brais Muñiz Castro (University of Coruña, Spain)
