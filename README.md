@@ -1,7 +1,7 @@
 # LP/CP Programming Contest 2025
 
 The traditional [LP/CP Programming Contest](https://lpcp-contest.github.io/) will be run **on site** during ICLP 2025.
-It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:30 (including an extra 30 minutes to accommodate any unexpected event) .
+It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:30 (including an extra 30 minutes to accommodate any unexpected event).
 The LP/CP Programming Contest 2025 will be held in person, with each team consisting of up to three participants, and is hosted at the ICLP 2025 conference venue, the University of Calabria.
 
 **Results, stats and winner** will be announced shortly after the contest at the ICLP 2025 conference banquet.
@@ -37,7 +37,7 @@ However, usage of the Docker image is optional, and other systems (as well as mo
 
 ## Scoring
 
-Participants will be ranked by **number of solved instances**.
+Participants will be ranked by **number of solved instances** (60 seconds timeout).
 A solution is valid as soon as it does not produce wrong answers for the tested instances.
 
 In case of an **optimization problem**, the best solution(s) for an instance provided by some participant will be awarded a point. Correct yet suboptimal answers are not considered wrong but won't receive points for the problem instance under consideration.
@@ -62,7 +62,7 @@ And of course: Join us for the LP/CP Programming Contest 2025 session on **Wedne
 
 ## Submission
 
-Via [EasyChair](https://easychair.org/conferences/?conf=iclp2025).
+Via [EasyChair](https://easychair.org/conferences/?conf=iclp25).
 Select the **Competition** track for the submission of solutions.
 
 For each problem you solve, submit a ZIP archive with all files needed to run your solution.
@@ -72,7 +72,7 @@ The title must obey the following format:
 team-name:problem-number:version
 ```
 
-A good entry-point is a script like `run.sh` reading input instances from STDIN and producing output on STDOUT (see [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0/example-solution-using-asp)).
+A good entry-point is a script like `run.sh` reading input instances from STDIN and producing output on STDOUT (see [problem-0](problem-0/example-solution-using-asp)).
 If you opt for a different entry-point or different usage, provide instructions on how to execute your solution in the abstract.
 We may ask support to run your solution at the end of the contest.
 
@@ -94,7 +94,7 @@ The instance and the solution to be checked are read from standard input.
 Before the contest, the checker is restricted to an example problem.
 It will be replaced to the unrestricted version during the contest.
 
-Let us consider [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0) (taken from a previous edition), and its first instance (i.e., instance-1).
+Let us consider [problem-0](problem-0) (taken from a previous edition), and its first instance (i.e., instance-1).
 If the solution to be checked is stored in file `instance.1.out`, the checker can be run with one of the following command-lines:
 ```bash
 $ cat instance.1.in instance.1.out | ./checker.py 0 
@@ -104,7 +104,7 @@ $ cat instance.1.in instance.1.out | ./checker.py 0 --no-browser
 The first command-line opens an ASP Chef visualization of the solution, as well as of errors (if any).
 The second command-line print errors in the terminal, but needs the ASP Chef CLI (`docker pull malvi/asp-chef-cli`).
 
-Note also that folder [problem-0](https://github.com/lpcp-contest/lpcp-contest-2023/tree/main/problem-0) includes an example solution using ASP.
+Note also that folder [problem-0](problem-0) includes an example solution using ASP.
 Input is parsed with a generic Python script, which can be easily adapted to other systems.
 Similarly, the output of the ASP engine is mapped to CSV by another Python script.
 The entry point to execute the ASP solution is the bash script `run.sh`.
@@ -113,7 +113,19 @@ The entry point to execute the ASP solution is the bash script `run.sh`.
 ## Participants
 
 In alphabetical order:
-- TBA
+- **0-ASPectation**: Davide Pirrò (DeMaCS Unical Student, Italy), Emanuele Galardo (DeMaCS Unical Student, Italy), Pierpaolo Spadafora (DeMaCS Unical Student, Italy)
+- **Failure-driven Team**: Daniela Ferreiro (IMDEA Software, Spain), Marco Ciccale (IMDEA Software, Spain), Daniel Jurjo (IMDEA Software, Spain)
+- **FiBoYi**: Aysu Bogatarkan (Sabanci University, Turkey), Baturay Yilmaz (Sabanci University, Turkey), Müge Fidan (Sabanci University, Turkey)
+- **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (CNRS, CRIL, France)
+- **Great ASPirations**: Jesse Heyninck (Open Universiteit Heerlen, Netherlands), Veronika Semmelrock (University of Klagenfurt, Austria), Alice Tarzariol (University of Klagenfurt, Austria)
+- **International Anthem**: Zach Hansen (University of Nebraska, Omaha, USA), Nicolas Rühling (University of Potsdam, Germany), Tobias Stolzmann (University of Potsdam, Germany)
+- **Nduja Tapas w/ glass of Chianti**: Stefano Forti (University of Pisa, Italy), Antonio Ielo (University of Calabria, Italy), Brais Muñiz Castro (University of Coruña, Spain)
+- **p**: Cristian Grozea (Fraunhofer Institute FOKUS, Berlin, Germany), Marco Gavanelli (University of Ferrara, Italy), Neng-Fa Zhou (CUNY, USA)
+
+Participants looking for a team:
+- Mahrokh Mirani (Gran Sasso Science Institute, Italy)
+  
+More teams to be announced!
 
 
 ## Organization
