@@ -117,6 +117,7 @@ In alphabetical order:
 - **FiBoYi**: Aysu Bogatarkan (Sabanci University, Turkey), Baturay Yilmaz (Sabanci University, Turkey), Müge Fidan (Sabanci University, Turkey)
 - **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (TU Wien, Austria)
 - **Great ASPirations**: Jesse Heyninck (Open Universiteit Heerlen, Netherlands), Veronika Semmelrock (University of Klagenfurt, Austria), Alice Tarzariol (University of Klagenfurt, Austria)
+- **International Anthem**: Zach Hansen (University of Nebraska, Omaha, USA), Nicolas Rühling (University of Potsdam, Germany), Tobias Stolzmann (University of Potsdam, Germany)
 
 Participants looking for a team:
 - Alexis R. Tudor (University of Texas at Dallas, USA)
