@@ -2,6 +2,7 @@
 
 import base64
 import fileinput
+import json
 import subprocess
 import sys
 import webbrowser
