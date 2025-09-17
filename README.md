@@ -122,12 +122,7 @@ In alphabetical order:
 - **International Anthem**: Zach Hansen (University of Nebraska, Omaha, USA), Nicolas Rühling (University of Potsdam, Germany), Tobias Stolzmann (University of Potsdam, Germany)
 - **Nduja Tapas w/ glass of Chianti**: Stefano Forti (University of Pisa, Italy), Antonio Ielo (University of Calabria, Italy), Brais Muñiz Castro (University of Coruña, Spain)
 - **p**: Cristian Grozea (Fraunhofer Institute FOKUS, Berlin, Germany), Marco Gavanelli (University of Ferrara, Italy), Neng-Fa Zhou (CUNY, USA)
-
-Participants looking for a team:
-- **Mahrokh Mirani ()
   
-More teams to be announced!
-
 
 ## Organization
 
