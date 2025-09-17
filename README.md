@@ -113,7 +113,13 @@ The entry point to execute the ASP solution is the bash script `run.sh`.
 ## Participants
 
 In alphabetical order:
-- TBA
+- **Failure-driven Team**: Daniela Ferreiro (IMDEA Software, Spain), Marco Ciccale (IMDEA Software, Spain), Daniel Jurjo (IMDEA Software, Spain)
+- **FrAutASP**: Alexander Beiser (TU Wien, Austria), Tobias Geibinger (TU Wien, Austria), Markus Hecher (TU Wien, Austria)
+
+Participants looking for a team:
+- Alexis R. Tudor (University of Texas at Dallas, USA)
+
+More teams to be announced!
 
 
 ## Organization
