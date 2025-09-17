@@ -1,6 +1,6 @@
 # Discrete Tomography
 
-You need to find out what is inside a box, but are not allowed to open it. You can, however, measure densities across the box, like a tomograph. We have done this for one slice - can you reconstruct the object inside? Assume that the object slice inside is connected (one piece, diagonal connections are OK) and convex (no holes). All densities (measured and in the object) are non-negative integers. The sums of the reconstructed object densities in each row and column must match the measurements.
+You need to find out what is inside a box, but are not allowed to open it. You can, however, measure densities across the box, like a tomograph. We have done this for one slice - can you reconstruct the object inside? Assume that the object slice inside is connected (one piece, diagonal connections are OK) and no holes. All densities (measured and in the object) are non-negative integers. The sums of the reconstructed object densities in each row and column must match the measurements.
 
 
 ## Input Format
