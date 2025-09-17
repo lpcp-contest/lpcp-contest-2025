@@ -1,7 +1,7 @@
 # LP/CP Programming Contest 2025
 
 The traditional [LP/CP Programming Contest](https://lpcp-contest.github.io/) will be run **on site** during ICLP 2025.
-It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:30 (including an extra 30 minutes to accommodate any unexpected event) .
+It will be a two hours session, taking place on Wednesday, 17 September, from 18:00 to 20:30 (including an extra 30 minutes to accommodate any unexpected event).
 The LP/CP Programming Contest 2025 will be held in person, with each team consisting of up to three participants, and is hosted at the ICLP 2025 conference venue, the University of Calabria.
 
 **Results, stats and winner** will be announced shortly after the contest at the ICLP 2025 conference banquet.
@@ -37,7 +37,7 @@ However, usage of the Docker image is optional, and other systems (as well as mo
 
 ## Scoring
 
-Participants will be ranked by **number of solved instances**.
+Participants will be ranked by **number of solved instances** (60 seconds timeout).
 A solution is valid as soon as it does not produce wrong answers for the tested instances.
 
 In case of an **optimization problem**, the best solution(s) for an instance provided by some participant will be awarded a point. Correct yet suboptimal answers are not considered wrong but won't receive points for the problem instance under consideration.
