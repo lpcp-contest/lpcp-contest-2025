@@ -120,7 +120,8 @@ In alphabetical order:
 
 Participants looking for a team:
 - Alexis R. Tudor (University of Texas at Dallas, USA)
-
+- Mahrokh Mirani (Gran Sasso Science Institute, Italy)
+  
 More teams to be announced!
 
 
