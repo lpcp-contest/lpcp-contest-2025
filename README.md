@@ -122,6 +122,15 @@ In alphabetical order:
 - **International Anthem**: Zach Hansen (University of Nebraska, Omaha, USA), Nicolas Rühling (University of Potsdam, Germany), Tobias Stolzmann (University of Potsdam, Germany)
 - **Nduja Tapas w/ glass of Chianti**: Stefano Forti (University of Pisa, Italy), Antonio Ielo (University of Calabria, Italy), Brais Muñiz Castro (University of Coruña, Spain)
 - **p**: Cristian Grozea (Fraunhofer Institute FOKUS, Berlin, Germany), Marco Gavanelli (University of Ferrara, Italy), Neng-Fa Zhou (CUNY, USA)
+
+### 🏆 Winner: p
+
+The team scored 14 points.
+
+
+### 🥈 Runner Up: Nduja Tapas w/ glass of Chianti
+
+The team scored 6 points.
   
 
 ## Organization
